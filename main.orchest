@@ -1,0 +1,32 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "services": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "cf1e3bdd-14d3-47f3-a43f-717d47f4b094": {
+            "environment": "97585f3f-69a1-4c18-b1eb-cdd3c246aa91",
+            "file_path": "test-selenium.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    194.5,
+                    362.5
+                ]
+            },
+            "parameters": {},
+            "title": "",
+            "uuid": "cf1e3bdd-14d3-47f3-a43f-717d47f4b094"
+        }
+    },
+    "uuid": "aafdf3db-5e00-4d21-ac95-dd0b76f78716",
+    "version": "1.2.2"
+}
