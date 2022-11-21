@@ -4,4 +4,4 @@
 
 How to use Chrome based Selenium in an Orchest pipeline
 
-![Pipeline](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/orchest-selenium-example/blob/master/main.orchest)
+![Pipeline](https://pviz.orchest.io/?pipeline=https://github.com/ricklamers/orchest-selenium-example/blob/master/main.orchest?v=2)
